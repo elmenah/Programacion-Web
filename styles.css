@@ -2,6 +2,7 @@
 color: blue;
 margin-top: 50px;
 text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .centrado{
     text-align: center;
@@ -12,6 +13,29 @@ text-align: center;
     vertical-align: top;
 }
 body{
-    background-color:beige;
-      
+    
+
+    
+    background-color: beige;
+}
+p{
+    color: red;
+
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+input{
+    border-radius: 7px;
+}
+img{
+    border: solid 1px;
+}
+#menu{
+    color: blue;
+    width: 20vw;
+    height: 10vh;
+    
 }
